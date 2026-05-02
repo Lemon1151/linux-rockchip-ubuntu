@@ -1,0 +1,9 @@
+linux-rockchip (7.0.0-1001.1) resolute; urgency=medium
+
+  * resolute/linux: 7.0.0-16.16 -proposed tracker (LP: #2150786)
+  
+  * Resolute update: v7.0.2 upstream stable release (LP: #2150553)
+  
+  * Resolute update: v7.0.1 upstream stable release (LP: #2150547)
+
+ -- Lemon1151 <smile1151@foxmail.com>  ‌Fri, 1 May 2026 21:50:06 +0300
